@@ -12,7 +12,7 @@ title                    : "Ammar Yasir's/ Home Page"
 title_separator          : "-"
 name                     : &name "Ammar Yasir Naich"
 description              : &description "personal description"
-url                      : https://ammaryasirnaich.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ammaryasirnaich.github.io/posts # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
